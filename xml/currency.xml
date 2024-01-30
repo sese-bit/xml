@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<currencies>
+    <countries country="united_state">
+        <name>United States</name>
+        <currency>
+            <code>USD</code>
+            <name>United States Dollar</name>
+            <symbol>$</symbol>
+        </currency>
+    </countries>
+
+    <countries country="united_kingdom">
+        <name>United Kingdom</name>
+        <currency>
+            <code>GBP</code>
+            <name>British Pound Sterling</name>
+            <symbol>£</symbol>
+        </currency>
+    </countries>
+
+    <countries country="japan">
+        <name>Japan</name>
+        <currency>
+            <code>JPY</code>
+            <name>Japanese Yen</name>
+            <symbol>¥</symbol>
+        </currency>
+    </countries>
+
+    <countries country="canada">
+        <name>Canada</name>
+        <currency>
+            <code>CAD</code>
+            <name>Canadian Dollar</name>
+            <symbol>CA$</symbol>
+        </currency>
+    </countries>
+
+    <countries country="australia">
+        <name>Australia</name>
+        <currency>
+            <code>AUD</code>
+            <name>Australian Dollar</name>
+            <symbol>A$</symbol>
+        </currency>
+    </countries>
+
+    <countries country="philippines">
+        <name>Philippines</name>
+        <currency>
+            <code>PHP</code>
+            <name>Philippine Peso</name>
+            <symbol>₱</symbol>
+        </currency>
+    </countries>
+</currencies>
