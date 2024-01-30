@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<food>
+    <menu dish="adobo">
+        <name>Adobo</name>
+        <type>Main Dish</type>
+        <ingredients>
+            <ingredient1>Chicken or Pork</ingredient1>, Soy Sauce, Vinegar, Garlic, Bay Leaves, Pepper, Onion</ingredients>
+        <description>
+            Adobo is a popular Filipino dish known for its savory and slightly tangy flavor.
+            It is often made with chicken or pork, simmered in a mixture of soy sauce, vinegar, garlic, and bay leaves.
+        </description>
+    </menu>
+    <menu dish="sinigang">
+        <name>Sinigang</name>
+        <type>Soup</type>
+        <ingredients>Pork or Shrimp, Tamarind, Vegetables (Radish, String Beans, Eggplant, Water Spinach), Chili</ingredients>
+        <description>
+            Sinigang is a sour tamarind-based soup with various ingredients such as pork or shrimp, and a variety of vegetables.
+            It is known for its delicious and comforting taste.
+        </description>
+    </menu>
+    <menu dish="lechon">
+        <name>Lechon</name>
+        <type>Roast</type>
+        <ingredients>Whole Roasted Pig, Salt, Pepper, Garlic</ingredients>
+        <description>Lechon is a festive dish featuring a whole roasted pig, seasoned with salt, pepper, and garlic. It is often served during special occasions and celebrations.</description>
+    </menu>
+    <menu dish="sisig">
+        <name>Sisig</name>
+        <type>Appetizer</type>
+        <ingredients>Chopped Pork Face and Ears, Onions, Chili, Calamansi, Egg</ingredients>
+        <description>Sisig is a flavorful and sizzling appetizer made from chopped pork face and ears, seasoned with onions, chili, calamansi, and topped with a raw egg. It is known for its bold and spicy taste.</description>
+    </menu>
+    <menu dish="halo-halo">
+        <name>Halo-Halo</name>
+        <type>Dessert</type>
+        <ingredients>Shaved Ice, Various Sweet Ingredients (Beans, Jellies, Leche Flan), Ube, Ice Cream</ingredients>
+        <description>Halo-Halo is a popular Filipino dessert known for its mix of various sweet ingredients, shaved ice, and evaporated milk. It is often topped with ube (purple yam) and ice cream.</description>
+    </menu>
+</food>

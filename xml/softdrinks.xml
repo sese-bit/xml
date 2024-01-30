@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<softDrinks>
+    <softDrink name="coca-cola">
+        <name>Coca-Cola</name>
+        <owner>The Coca-Cola Company</owner>
+        <founder>John Stith Pemberton</founder>
+        <establishedDate>January 29, 1892</establishedDate>
+        <description>Coca-Cola is a globally renowned carbonated soft drink known for its secret formula, distinctive taste, and iconic softDrink name=""ing.</description>
+    </softDrink>
+    <softDrink name="pepsi">
+        <name>Pepsi</name>
+        <owner>PepsiCo</owner>
+        <founder>Caleb Bradham</founder>
+        <establishedDate>August 28, 1898</establishedDate>
+        <description>Pepsi is a popular cola soft drink that has been a competitor to Coca-Cola, offering a sweet and refreshing taste.</description>
+    </softDrink>
+    <softDrink name="sprite">
+        <name>Sprite</name>
+        <owner>The Coca-Cola Company</owner>
+        <founder>The Coca-Cola Company</founder>
+        <establishedDate>1961</establishedDate>
+        <description>Sprite is a lemon-lime flavored soda, known for its clear, caffeine-free formula and crisp, refreshing taste.</description>
+    </softDrink>
+    <softDrink name="fanta">
+        <name>Fanta</name>
+        <owner>The Coca-Cola Company</owner>
+        <founder>The Coca-Cola Company</founder>
+        <establishedDate>1940</establishedDate>
+        <description>Fanta is a popular orange-flavored soft drink with a fruity and vibrant taste, enjoyed by people worldwide.</description>
+    </softDrink>
+    <softDrink name="mountainDew">
+        <name>Mountain Dew</name>
+        <owner>PepsiCo</owner>
+        <founder>Barney and Ally Hartman</founder>
+        <establishedDate>1940</establishedDate>
+        <description>Mountain Dew is a citrus-flavored carbonated beverage known for its bold and energizing taste, often associated with extreme sports and gaming culture.</description>
+    </softDrink>
+</softDrinks>
