@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<nationalHeroes>
+    <hero name="emilio_aguinaldo">
+        <firstname>Emilio</firstname>
+        <lastname>Aguinaldo</lastname>
+        <birthdate>March 22, 1869</birthdate>
+        <birthplace>Kawit, Cavite</birthplace>
+        <death_date>February 6, 1964</death_date>
+        <deathplace>Quezon City</deathplace>
+        <spouses>
+            <spouse1>Maria Agoncillo</spouse1>
+            <spouse2>Hilaria Aguinaldo</spouse2>
+        </spouses>
+        <parents>
+            <father>Carlos Aguinaldo</father>
+            <mother>Trinidad Famy</mother>
+        </parents>
+    </hero>
+    <hero name="gabriela_silang">
+        <firstname>Gabriela</firstname>
+        <lastname>Silang</lastname>
+        <birthdate>
+            <month>March</month>
+            <day>19</day>
+            <year>1731</year>
+        </birthdate>
+        <birth_place>Santa</birth_place>
+        <died>
+            <month>September</month>
+            <day>20</day>
+            <year>1763</year>
+        </died>
+        <deathplace>Vigan City</deathplace>
+        <spouses>
+            <spouse1>Diego Silang</spouse1>
+            <spouse2>Tomas Millan</spouse2>
+        </spouses>
+        <parents>
+            <father>Anselmo Cariño</father>
+        </parents>
+    </hero>
+</nationalHeroes>

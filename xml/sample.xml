@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<philippineNationalHeroes>
+    <hero>
+        <name>Jose Rizal</name>
+        <birthdate>June 19, 1861</birthdate>
+        <placeOfBirth>Calamba, Laguna</placeOfBirth>
+        <deathDate>December 30, 1896</deathDate>
+        <description>
+            Jose Protacio Rizal Mercado y Alonzo Realonda is widely considered the national hero of the Philippines.
+            He was a polymath who excelled in various fields, including writing, medicine, and the arts.
+            Rizal's literary works, such as "Noli Me Tangere" and "El Filibusterismo," played a crucial role in
+            inspiring Filipinos to fight for independence from Spanish colonial rule.
+        </description>
+    </hero>
+
+    <hero>
+        <name>Andres Bonifacio</name>
+        <birthdate>November 30, 1863</birthdate>
+        <placeOfBirth>Tondo, Manila</placeOfBirth>
+        <deathDate>May 10, 1897</deathDate>
+        <description>
+            Andres Bonifacio was a key figure in the Philippine Revolution against Spanish colonial rule.
+            He founded the secret society Katipunan, which aimed to achieve Philippine independence through armed struggle.
+            Bonifacio played a crucial role in organizing and leading revolutionary forces, although he was later executed
+            during internal conflicts within the revolutionary movement.
+        </description>
+    </hero>
+
+    <!-- Add more heroes as needed -->
+
+</philippineNationalHeroes>

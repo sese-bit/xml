@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<nationalHeroes>
+    <hero name="andres_bonifacio">
+        <firstname>Andres</firstname>
+        <lastfirstname>Bonifacio</lastfirstname>
+        <birthdate>November 30, 1863</birthdate>
+        <placeOfBirth>Tondo, Manila</placeOfBirth>
+        <deathDate>May 10, 1897</deathDate>
+        <deathPlace>Maragondon, Cavite</deathPlace>
+        <parents>
+            <father>Santiago Bonifacio</father>
+            <mother>Catalina de Castro</mother>
+        </parents>
+        <spouse>Gregoria de Jesus</spouse>
+        <description>
+            Andres Bonifacio was a key figure in the Philippine Revolution against Spanish colonial rule.
+            He founded the secret society Katipunan, which aimed to achieve Philippine independence through armed struggle.
+            Bonifacio played a crucial role in organizing and leading revolutionary forces, although he was later executed
+            during internal conflicts within the revolutionary movement.
+        </description>
+    </hero>
+
+    <hero name="juan_luna">
+        <firstname>Juan</firstname>
+        <lastname>Luna</lastname>
+        <birthdate>October 23, 1857</birthdate>
+        <placeOfBirth>Badoc, Ilocos Norte</placeOfBirth>
+        <deathDate>December 7, 1899</deathDate>
+        <deathPlace>Hong Kong</deathPlace>
+        <parents>
+            <father>Joaquín Luna</father>
+            <mother>Laureana Novicio</mother>
+        </parents>
+        <spouse>María de la Paz Pardo de Tavera</spouse>
+        <description>
+            Juan Luna was a prominent Filipino painter and sculptor. He is best known for his masterpiece, "Spoliarium,"
+            which won a gold medal at the Exposición Nacional de Bellas Artes in Madrid in 1884. Luna's artworks and
+            contributions to the Philippine art scene continue to be celebrated.
+        </description>
+        </hero>
+
+    <hero name="emilio_jacinto">
+        <firstname>Emilio</firstname>
+        <lastfirstname>Jacinto</lastfirstname>
+        <birthdate>December 15, 1875</birthdate>
+        <placeOfBirth>Tondo, Manila</placeOfBirth>
+        <deathDate>April 16, 1899</deathDate>
+        <deathPlace>Majayjay, Laguna</deathPlace>
+        <parents>
+            <father>Marciano Jacinto</father>
+            <mother>Atty. Josefa Dizon</mother>
+        </parents>
+        <spouse></spouse>
+        <description>
+            Emilio Jacinto was a revolutionary and one of the closest aides of Andres Bonifacio. Known as the "Brains of the Katipunan,"
+            Jacinto wrote important documents for the revolutionary movement. His dedication to the cause earned him the title
+            "The Brains of the Revolution."
+        </description>
+    </hero>
+
+    <hero name="apolinario_mabini">
+        <firstname>Apolinario</firstname>
+        <lastfirstname>Mabini</lastfirstname>
+        <birthdate>July 23, 1864</birthdate>
+        <placeOfBirth>Tanauan, Batangas</placeOfBirth>
+        <deathDate>May 13, 1903</deathDate>
+        <deathPlace>Manila</deathPlace>
+        <parents>
+            <father>Inocencio Mabini</father>
+            <mother>Dionisia Maranan</mother>
+        </parents>
+        <spouse></spouse>
+        <description>
+            Apolinario Mabini was a revolutionary and political philosopher who played a key role in the Philippine Revolution
+            against Spanish colonization. He served as the first Prime Minister of the Philippines under the First Philippine
+            Republic. Mabini is often remembered for his intellectual contributions and dedication to the quest for Philippine
+            independence.
+        </description>
+    </hero>
+
+    <hero name="gabriela_silang">
+        <firstname>Gabriela</firstname>
+        <lastfirstname>Silang</lastfirstname>
+        <birthdate>March 19, 1731</birthdate>
+        <placeOfBirth>Vigan, Ilocos Sur</placeOfBirth>
+        <deathDate>September 20, 1763</deathDate>
+        <deathPlace>Vigan, Ilocos Sur</deathPlace>
+        <parents>
+            <father>Ignacio Silang</father>
+            <mother>Magdalena Gamboa</mother>
+        </parents>
+        <spouse>Diego Silang</spouse>
+        <description>
+            Gabriela Silang was a revolutionary leader who played a significant role in the Philippine struggle for independence.
+            After her husband Diego Silang was assassinated, Gabriela continued the fight against Spanish colonial rule,
+            becoming a symbol of women's participation in the revolution. She is remembered for her bravery and dedication to
+            the cause of Philippine freedom.
+        </description>
+    </hero>
+
+    <hero name="emilio_aguinaldo">
+        <firstname>Emilio</firstname>
+        <lastfirstname>Aguinaldo</lastfirstname>
+        <birthdate>March 22, 1869</birthdate>
+        <placeOfBirth>Cavite, Cavite</placeOfBirth>
+        <deathDate>February 6, 1964</deathDate>
+        <deathPlace>Quezon City, Metro Manila</deathPlace>
+        <parents>
+            <father>Carlos Aguinaldo</father>
+            <mother>Trinidad Famy</mother>
+        </parents>
+        <spouse>Hilaria del Rosario</spouse>
+        <description>
+            Emilio Aguinaldo was a revolutionary and the first President of the Philippines. He played a key role in the
+            Philippine Revolution against Spanish colonial rule and later in the Philippine-American War. Aguinaldo proclaimed
+            Philippine independence on June 12, 1898. Despite his complex legacy, Aguinaldo is recognized as a significant
+            figure in Philippine history.
+        </description>
+    </hero>
+</nationalHeroes>
