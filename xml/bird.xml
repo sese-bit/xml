@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<birds>
+    <bird id="eagle">
+        <name>Eagle</name>
+        <scientificName>Pithecophaga</scientificName>
+        <family>Accipitridae</family>
+        <habitat>
+            <habitat_name>forests</habitat_name>
+            <terrain>rivers lakes</terrain>
+        </habitat>
+        <favorite_food>
+            <food_name>squirrels rabbits fish mice</food_name>
+            <food_type>fish</food_type>
+        </favorite_food>
+    </bird>
+
+    <bird id="parrots">
+        <name>parrots</name>
+        <scientificName>Psittaciformes</scientificName>
+        <family>Psittacidae</family>
+        <habitat>
+            <habitat_name>rainforests deserts grasslands</habitat_name>
+            <terrain>South Asia</terrain>
+        </habitat>
+        <favorite_food>
+            <food_name>fruits nuts seeds</food_name>
+            <food_type>vegetables</food_type>
+        </favorite_food>
+    </bird>
+
+    <bird id="owl">
+        <name>Owl</name>
+        <scientificName>Strigiformes</scientificName>
+        <family>Tytonidae</family>
+        <habitat>
+            <habitat_name>deserts and plains</habitat_name>
+            <terrain>mountainous wooded valleys</terrain>
+        </habitat>
+        <favorite_food>
+            <food_name>voles and mice</food_name>
+            <food_type>insects spiders earthworms snails and crabs</food_type>
+        </favorite_food>
+    </bird>
+
+    <bird id="swallow">
+        <name>Swallow</name>
+        <scientificName>Hirundo rustica</scientificName>
+        <family>Hirundinidae</family>
+        <habitat>
+            <habitat_name>water and farmland</habitat_name>
+            <terrain>river</terrain>
+        </habitat>
+        <favorite_food>
+            <food_name>Fruits</food_name>
+            <food_type>vegetables</food_type>
+        </favorite_food>
+    </bird>
+
+    <bird id="kingFisher">
+        <name>king fisher</name>
+        <scientificName>Alcedo atthis</scientificName>
+        <family>Alcedinidae</family>
+        <habitat>
+            <habitat_name>forests and forested streams</habitat_name>
+            <terrain>Africa</terrain>
+        </habitat>
+        <favorite_food>
+            <food_name>fish</food_name>
+            <food_type>worms insects small crabs</food_type>
+        </favorite_food>
+    </bird>
+
+</birds>
